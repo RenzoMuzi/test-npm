@@ -1,11 +1,11 @@
 {
-  "name": "test-npm",
+  "name": "test-npm-renzo",
   "version": "1.0.0",
   "description": "Test Npm Package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Renzo Muzi",
+  "author": "renzomuzi",
   "license": "ISC"
 }
